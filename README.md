@@ -3,5 +3,5 @@
 -----
 ##### Nutzung
 
- 1. ```git add submodule REPO``` (Falls bereits im Projekt vorhanden: ```cd Latex_Template; git pull```)
+ 1. ```git submodule add REPO``` (Falls bereits im Projekt vorhanden: ```cd Latex_Template; git pull```)
  2. Einbinden des Themes mit ```\input{beamerthemeFOSSAG.sty}```
